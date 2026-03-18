@@ -1,9 +1,9 @@
 # Plastic Waste is Our Global Problem
 ### A Statistical Case Study on Policy Impact and Behavioral Change
 
-**Context**: Case study prepared for UNEP environmental data analysis
-**Tools**: Python (matplotlib, scipy, numpy), Microsoft Excel
-**Data**: 212 survey respondents per country, 848 total observations
+**Context:** Case study prepared for UNEP environmental data analysis
+**Tools:** Python (matplotlib, scipy, numpy), Microsoft Excel
+**Data:** ~212 survey respondents per country, 848 total observations
 
 ## Why Do We Care About Plastic Waste?
 
@@ -164,10 +164,10 @@ The analyses in this report provided clear quantitative evidence of the plastic 
 ```
 plastic-waste-analysis/
     README.md
-    data_analysis/
+    data/
         139663_Vu.xls
     report/
-        139663_Vu.pdf
+        139663_Vu.xls.pdf
     images/
         chart1_mean_ci.png
         chart2_boxplot.png
