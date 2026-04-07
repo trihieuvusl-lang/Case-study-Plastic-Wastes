@@ -176,5 +176,6 @@ plastic-waste-analysis/
 
 ## References
 
-Statista — Global Plastic Waste Overview: https://www.statista.com/topics/5401/global-plastic-waste/
-United Nations Environment Programme (UNEP) — Plastic Waste Policy Framework
+Statista - Global Plastic Waste Overview: https://www.statista.com/topics/5401/global-plastic-waste/
+
+United Nations Environment Programme (UNEP) - Plastic Waste Policy Framework
