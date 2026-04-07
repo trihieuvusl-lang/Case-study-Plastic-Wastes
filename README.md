@@ -7,7 +7,7 @@
 
 ## Why Do We Care About Plastic Waste?
 
-Between 1950 and 2018, the amount of plastic produced worldwide skyrocketed from 1.5 million tons to more than 350 million tons per year. However, only a small fraction of this is recycled. Much of the rest is buried, burned, or worse — washed up in the ocean, harming marine life like turtles, seabirds, and fish.
+Between 1950 and 2018, the amount of plastic produced worldwide skyrocketed from 1.5 million tons to more than 350 million tons per year. However, only a small fraction of this is recycled. Therefore, much of the rest is buried, burned, or washed up in the ocean, which in turn harms marine life such as turtles, seabirds, and fish.
 
 The United Nations Environment Programme (UNEP) conducted a study on plastic consumption behavior across countries. This report analyzes data from four countries: Country A, which has not signed a commitment to reduce plastic waste, and Countries B, C, and D, which have signed and implemented such commitments.
 
